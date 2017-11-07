@@ -2,27 +2,9 @@
   "posts": [
  {
       "id": 1,
-      "title": "Microsoft Windows",
+      "title": "ikka Construction",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
-      "body": "<p><img alt=\"Praesentium ut.\" src=\"\/static\/media\/bike.09a71c22.jpg\"><\/p>\n<hr>\n"
-    },
-    {
-      "id": 2,
-      "title": "UX/ UI Design toolkits",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
-      "body": "Nulla turpis neque, eleifend at nibh volutpat, maximus scelerisque diam. Aliquam pulvinar nec turpis ac porta. Vivamus vestibulum risus quis gravida ornare. Nullam ultricies viverra leo rhoncus sollicitudin. Vivamus pellentesque quis massa sed pellentesque. Aliquam id venenatis lectus. Aliquam quis magna ut risus mollis luctus. Sed bibendum pellentesque sapien, et volutpat metus tincidunt in. Maecenas ornare feugiat enim id lacinia. Phasellus pulvinar lectus eu tincidunt blandit. Fusce sollicitudin ante sed nulla malesuada tincidunt."
-    },
-    {
-      "id": 3,
-      "title": "Craft3",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
-      "body": "Nullam ac felis massa. Nunc cursus diam at luctus iaculis. Praesent eleifend enim non augue convallis, ac molestie metus semper. Suspendisse ut pulvinar nisl. In tincidunt dui quis vehicula maximus. Morbi vitae iaculis nisl, in blandit sem. Suspendisse eu malesuada tellus. Cras consequat pretium fermentum. Quisque at est nulla. Phasellus eget euismod ipsum."
-    },
-    {
-      "id": 4,
-      "title": "Ikka Construction",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
-      "body": "Nullam ac felis massa. Nunc cursus diam at luctus iaculis. Praesent eleifend enim non augue convallis, ac molestie metus semper. Suspendisse ut pulvinar nisl. In tincidunt dui quis vehicula maximus. Morbi vitae iaculis nisl, in blandit sem. Suspendisse eu malesuada tellus. Cras consequat pretium fermentum. Quisque at est nulla. Phasellus eget euismod ipsum."
+      "body": "<p><img alt=\"Praesentium ut.\" src=\"\/static\/media\/ikka\/1.jpg\"><\/p>"
     }
   ],
     "items": [
